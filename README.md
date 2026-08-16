@@ -30,9 +30,8 @@
 
 ## GitHub 统计
 
-![Stats](https://github-readme-stats.vercel.app/api?username=3y3y3y-huaiji&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3y3y3y-huaiji&layout=compact)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/3y3y3y-huaiji&query=$.public_repos&label=Repos&color=blue)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/3y3y3y-huaiji&query=$.followers&label=Followers&color=green)
 
 ## 链接
 
