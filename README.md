@@ -12,4 +12,4 @@
 - [lean4-carmichael](https://github.com/3y3y3y-huaiji/lean4-carmichael) — Formalization of Carmichael numbers
 
 ### Links
-- Blog: [berry.ccwu.cc](https://berry.ccwu.cc/)
+- Blog: [sumingkai.de5.net](https://sumingkai.de5.net/)
