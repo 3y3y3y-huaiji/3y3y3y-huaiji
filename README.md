@@ -5,7 +5,7 @@
 - **Geometric Deep Learning & Architectures**: Non-Orientable Manifold Attention, Gauge Equivariance, LLM Foundations
 - **Systems & Engineering**: Python, Rust, TypeScript, Android, Cloudflare Workers
 
-###项目
+### Project
 - **[Lean Init IDE](https://github.com/3y3y3y-huaiji/lean-init-ide)** ([Demo](https://lean-init-ide.pages.dev) · [Mirror](https://criticalthinking.de5.net/)): A zero-setup, browser-based Lean 4.34.1 playground and tutorial running locally in a Web Worker via WASM (Init-only, 21 beginner lessons, offline-capable without `elan` or a backend server).
 - **Mathlib4 Contributions (Merged)**:
   - [#44798](https://github.com/leanprover-community/mathlib4/pull/44798) — `style(Order/Heyting): rename inf_himp to inf_himp_self`
